@@ -10,8 +10,7 @@ PASSWORD = password
 URL = login url
 GRADE_URL = url to the grades
 BOT_TOKEN = Telegram bot token
-CHAT_ID = Telgram chat id
-
+CHAT_ID = Telegram chat id
 ```
 ### Telegram bot
 * Create a bot using [https://t.me/botfather](https://t.me/botfather)
