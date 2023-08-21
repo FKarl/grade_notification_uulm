@@ -15,4 +15,4 @@ CHAT_ID = Telegram chat id
 ### Telegram bot
 * Create a bot using [https://t.me/botfather](https://t.me/botfather)
 * Write your bot a message
-* Get your chat id by using `https://api.telegram.org/botXXX:YYY/getUpdates`. XXX:YYY is yout BOT_TOKEN
+* Get your chat id by using `https://api.telegram.org/botXXX:YYY/getUpdates`. XXX:YYY is your BOT_TOKEN
